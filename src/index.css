@@ -1,0 +1,12 @@
+.article {
+  margin: 0px 10px 0px 10px;
+  padding: 20px;
+  border-bottom: 2px solid #b3c2c2;
+}
+.article:hover {
+  background-color: #e7f0f0;
+}
+.navbar {
+  padding: 1px;
+  background-color: rgb(79, 98, 207);
+}
